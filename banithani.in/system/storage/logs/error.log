@@ -1,0 +1,5 @@
+2020-08-03 22:52:30 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'bntnproductiondb' in D:\xampp\htdocs\banithani.in\system\library\db\mysqli.php on line 7
+2020-08-03 22:52:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\banithani.in\system\library\db\mysqli.php on line 10
+2020-08-03 22:52:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\banithani.in\system\library\db\mysqli.php on line 10
+2020-08-03 22:52:30 - PHP Notice:  Undefined variable: mysql in D:\xampp\htdocs\banithani.in\install\controller\install\step_3.php on line 280
+2020-08-03 22:52:30 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\xampp\htdocs\banithani.in\install\controller\install\step_3.php on line 280
