@@ -8,11 +8,11 @@ define('HTTPS_SERVER', 'http://localhost/banithani.in/admin/');
 define('HTTPS_CATALOG', 'http://localhost/banithani.in/');
 
 // DIR
-define('DIR_APPLICATION', 'D:/xampp/htdocs/banithani.in/admin/');
-define('DIR_SYSTEM', 'D:/xampp/htdocs/banithani.in/system/');
-define('DIR_IMAGE', 'D:/xampp/htdocs/banithani.in/image/');
+define('DIR_APPLICATION', 'C:/xampp/htdocs/banithani.in/admin/');
+define('DIR_SYSTEM', 'C:/xampp/htdocs/banithani.in/system/');
+define('DIR_IMAGE', 'C:/xampp/htdocs/banithani.in/image/');
 define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
-define('DIR_CATALOG', 'D:/xampp/htdocs/banithani.in/catalog/');
+define('DIR_CATALOG', 'C:/xampp/htdocs/banithani.in/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
